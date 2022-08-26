@@ -13,5 +13,5 @@ scanf("%f", &graus);
 radianos = graus *3.14/180;
 
 //saida
-printf("O �ngulo em radianos é %.2f\n\n", radianos);
+printf("O ângulo em radianos é %.2f\n\n", radianos);
 }
