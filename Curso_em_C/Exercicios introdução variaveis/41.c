@@ -12,8 +12,8 @@ int main (){
 		
 	//Processamento
 	salario = hora_trabalhada * numero_hora;
-	salario_bonus = (salario * 0.1) + salario
+	salario_bonus = (salario * 0.1) + salario;
 	
 	//Saida
-	printf("O seu salario sera:R$ \n", salario_bonus);
+	printf("O seu salario sera:R$%d \n", salario_bonus);
 }
