@@ -54,7 +54,7 @@ int main(){
         printf("Selecione a opção: \n\n");
         printf("[1] Inserir (enqueue): \n");
         printf("[2] Remover (dequeue): \n");
-        printf("[3] Lista: \n");
+        printf("[3] Listar: \n");
         printf("[4] limpa fila: \n");
         printf("[-1] SAIR \n");
         printf("Opção: \n");
@@ -62,16 +62,16 @@ int main(){
 
         switch (opcao){
         case 1:
-            enqueue;
+            enqueue();
             break;
         case 2:
-            dequeue;
+            dequeue();
             break;
         case 3:
             lista_elementos();
             break;
         case 4:
-            clear;
+            clear();
             break;
         case -1:
             break;        
