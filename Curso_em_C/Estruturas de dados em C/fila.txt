@@ -1,0 +1,11 @@
+Fila / Queue
+
+Filade banco;
+O elemento que entra primeiro, sai primeiro;
+Sempre que um elemento é adicionado na fial, ele vai para o final;
+sempre que removemos um elemento, o primeiro pé removido;]
+
+FIFO: fist in /  fist out
+
+enqueue() - adicionado elemento na Fila
+dequeue() - remove elemento da Fila
