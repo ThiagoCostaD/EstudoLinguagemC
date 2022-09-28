@@ -1,0 +1,9 @@
+árvore binaria - binary tree
+
+- São estruturas de dados caraterizadas por:
+
+ou nao tem elemento algum  - arvore vazia
+ou term um elemento distinto, denominado rais, 
+com dois apontamentos para duas estruturas diferentes,
+denominadas sun-arvores esquerda
+e sub-arvore direita 
